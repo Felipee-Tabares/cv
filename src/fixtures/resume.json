@@ -1,0 +1,176 @@
+{
+    "basic": {
+        "name": "Andres Felipe Tabares Benavides",
+        "label": "Software Engineer | Smart contract's Developer",
+        "email": "aftb20053@gmail.com",
+        "image": "/images/profile.jpg",
+        "summary": [
+            "Software engineer in training with informal experience in on-site and remote customer support; design and management of mobile applications and databases; definition of functionalities for the development and maintenance of systems, test management, support in IT and technology projects; excelling in the handling of languages such as SQL, Python and Solidity. In addition to this, the handling of infrastructure such as coding, with Terraform, with competencies and skills such as detail orientation, productivity, teamwork and problem solving."
+        ],
+        "location": {
+            "address": "Colombia",
+            "city": "Bogota D.C"
+        },
+        "profiles": [
+            {
+                "network": "twitter",
+                "username": "F3l1p3_z",
+                "url": "https://x.com/F3l1p3_z"
+            }
+        ]
+    },
+    "work": [
+    {
+        "name": "Work experience in training",
+        "location": "",
+        "position": "",
+        "url": "",
+        "startDate": "03/2021",
+        "endDate": "Present",
+        "summary": "I excel in Python and am proficient in using Git and GitHub for version control. I have experience in SQL and I am deepening in DynamoDB management in AWS. I specialize in learning and creating smart contracts on the Avalanche blockchain. In addition, I am initiating the development of skills in artificial intelligence, specifically in the creation of AI agents.",
+        "highlights": [
+            ""
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Elisa Borrero de Pastrana",
+            "area": "Colegio",
+            "studyType": "Bachiller",
+            "startDate": "01/2010",
+            "endDate": "11/2022",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "Manuela Beltran University",
+            "area": "Software Engenerie",
+            "studyType": "Pre-grado",
+            "startDate": "01/2023",
+            "endDate": "08/2008",
+            "gpa": "3.3"
+           
+        },
+        {
+            "institution": "Avalanche",
+            "area": "Avalanche fundamental's certificate",
+            "studyType": "Certification",
+            "startDate": "02/2025",
+            "endDate": "03/2025"          
+        }
+
+    ],
+
+    "skills": [
+        {
+            "name": "AWS - Compute",
+            "level": "Junior",
+            "keywords": [
+                "EC2",
+                "Lambda",
+                "Fargate",
+                "Amplify"
+            ]
+        },
+
+        {
+            "name": "HashiCorp",
+            "level": "Junior",
+            "keywords": [
+                "Terraform (Terragrunt)",
+                "Vault"
+            ]
+        },
+
+
+        {
+            "name": "Solidity",
+            "level": "Junior",
+            "keywords": [
+                "Smart contract's",
+                "Deployment",
+                "ERC-20"
+            ]
+        },
+        {
+            "name": "SQL Server",
+            "level": "Junior",
+            "keywords": [
+                "Configuration",
+                "Integration",
+                "Store Procedures" 
+            ]
+        },
+        {
+            "name": "Windows Server",
+            "level": "Junior",
+            "keywords": [
+                "Administration",
+                "Powershell",
+                "IIS",
+                "AD"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cryptocurrency",
+            "keywords": [
+                "Trading",
+                "Blockchain"
+            ]
+        },
+        {
+            "name": "IoT",
+            "keywords": [
+                "Home Automation"
+            ]
+        },
+        {
+            "name": "Infraestructure as code",
+            "keywords": [
+                "Terraform"
+            ]
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "HouseCoin ",
+            "description": "Development of a decentralized voting regulation system within residential areas, in order to prioritize fairness and transparency in collective decision making, generating a social impact with respect to the responsibility of a common good. Through a website implementing a smart contract (ERC-20) executed on the Avalanche blockchain.",
+            "highlights": [
+                "Identify information on how the current voting system works through resident interview techniques and in turn validate the allocation of power according to the financial and social responsibility of the resident. And in this way structure the functional voting model for the resident area.",
+                "Design the architecture through the collected data and flow diagrams, defining the creation of tokens to be used generated by the smart contract (ERC-20) and distributed according to the resident's responsibility study, with this same contract the voting in the Avalanche Testnet Fuji will be regulated.",
+                "Develop the smart contract in the avalanche Testnet and define the infrastructure that will have in the Blockchain. Developing a user interface to manage the funds that were generated to be distributed through AirDrops to members, along with an AI Agent that will be integrated through n8n to the website and help residents with the process of creating walllets.",
+                "Implement a web application accessible and intuitive interface that will have as its core a smart contract, forming a decentralized platform, next to the multi-signature, and the liquidity pool, where the Token's will be stored, and the multi-signature that will be the platform where the people will be the ones in charge of approving the transactions of the Tokens to be made."
+            ],
+            "keywords": [
+                "ERC-20",
+                "Solodity",
+                "AWS"
+            ],
+            "startDate": "2025-03-25",
+            "endDate": "In production",
+            "url": "https://describeme.net",
+            "roles": [
+                "Founder",
+                "Solutions Architect",
+                "Full Stack Developer",
+                "Smart contract's developer"
+            ],
+            "entity": "HouseCoin",
+            "type": ""
+        }
+    ]
+}
